@@ -115,3 +115,49 @@ label #sidebar_btn:hover {
 #check {
     display: none;
 }
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+#yazı {
+    margin-top: 150px;
+}
+
+#başlık {
+    text-align: center;
+    color: #ccc;
+}
+
+#açıklama {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(161, 158, 158);
+}
+
+.açıklamadeğer {
+    text-decoration: none;
+    color: #d3a50e;
+    transition: 0.5s;
+    transition-property: color;
+    transition: 0.5s;
+    transition-property: color;
+}
+
+.açıklamadeğer:hover {
+    color: #990000;
+}
+
+#BerkayDuzgun {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    text-align: center;
+    box-shadow: 0px 0px 15px black;  
+}
+
+#BerkayDuzgundiv {
+    text-align: center;
+}
