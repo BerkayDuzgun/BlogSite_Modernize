@@ -165,6 +165,61 @@ label #sidebar_btn:hover {
 
 #hakkımdadiv {
     text-align: center;
-    margin-top: 120px;
-    padding-top: 40px;
+    margin-top: 80px;
+    padding-top: 80px;
+    border-top: dashed 2px #232323;
+}
+
+/* ------------------- */
+#projeresim {
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 80px;
+    border-top: dashed 2px #232323;
+}
+
+#projeresmi {
+    width: 200px;
+    border: solid 1px;
+    border-radius: 250px;
+}
+
+.projeamaç {
+    padding-left: 10px;
+    color: #a0a0a0;
+}
+
+.projeulaşmak {
+    margin-left: 650px;
+    padding-top: 15px;
+    color: #a0a0a0;
+}
+
+.projebaşlık {
+    padding-bottom: 20px;
+    padding-left: 10px;
+    color: #DBDBDB;
+}
+
+#proje1 {
+    margin-left: 20px;
+    margin-top: 20px;
+    border: solid 2px #3b3b3b;
+    background-color: #3b3b3b;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#projelerim {
+    text-align: center;
+    color: #DBDBDB;
+    margin-top: 10px;
+}
+
+#örnekprojeresim {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    box-shadow: 0px 0px 15px black;
 }
