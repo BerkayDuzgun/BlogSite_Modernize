@@ -126,12 +126,12 @@ label #sidebar_btn:hover {
     margin-top: 150px;
 }
 
-#başlık {
+.başlık {
     text-align: center;
     color: #ccc;
 }
 
-#açıklama {
+.açıklama {
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
@@ -151,7 +151,7 @@ label #sidebar_btn:hover {
     color: #990000;
 }
 
-#BerkayDuzgun {
+.BerkayDuzgun {
     width: 250px;
     height: 250px;
     border-radius: 250px;
@@ -161,4 +161,10 @@ label #sidebar_btn:hover {
 
 #BerkayDuzgundiv {
     text-align: center;
+}
+
+#hakkımdadiv {
+    text-align: center;
+    margin-top: 120px;
+    padding-top: 40px;
 }
