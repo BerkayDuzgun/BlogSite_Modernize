@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Roboto", sans-serif;
+    display: flex;
 }
 
 header {
@@ -117,8 +118,8 @@ label #sidebar_btn:hover {
 }
 
 .content{
-    display: flex;
-    justify-content: center;
+    flex: 1;
+    overflow: auto;
 }
 
 #yazı {
